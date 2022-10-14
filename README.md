@@ -1,6 +1,9 @@
 # Counterfeit Minesweeper
 A recreation of the popular game Minesweeper. Originally a class project made during my second semester at college. GUI frame and MouseReader elements were written by my professors. The rest was coded by me. This project does not utilize any inheritance or polymorphism by design. Utilizes the Object class and (many) typecasts to place an emphasis on the importance of the Object class within Java (which serves as the "daddy" of all classes), and how it allows us to generalize data. 
 
+![Screenshot 2022-10-14 015520](https://user-images.githubusercontent.com/106047063/195773112-b2801759-8e7f-4abd-bac9-1c24a4de8f70.png)
+
+
 # How to Play
 1. Download the zip file.
 2. Extract the zip file in the directory where it was installed.
